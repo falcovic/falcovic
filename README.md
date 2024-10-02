@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @falcovic
 - 👀 I’m interested in embedded development
-- 🌱 I’m currently learning SSH and network security
+- 🌱 I’m currently learning docker and compose
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
